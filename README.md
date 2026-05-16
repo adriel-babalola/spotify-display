@@ -38,6 +38,5 @@ Wiring diagram using KICAD
 | 4 | 3D Printing Case | To hold the display | 1 | $11.00 | #printing-legion | - |
 | 5 | Cherry MX Switches | To switch between songs | 3 | $2.91 | AliExpress | [link](https://www.aliexpress.com/item/1005003629759439.html) |
 | 6 | Wemos ESP32-C3 Development Board | MCU | 1 | $4.79 | AliExpress | [link](https://www.aliexpress.com/item/1005012043829146.html) |
-| 7 | 1.8" TFT LCD Display Module ST7735S 3.3V | The display unit | 1 | $3.27 | AliExpress | [link](https://www.aliexpress.com/item/1005008042359126.html) |
-
+| 7 | 1.8" TFT LCD Display Module ST7735S 3.3V | The display unit | 1 | $3.27 | AliExpress | [link](https://www.aliexpress.com/item/1005008042359126.html) 
 | | | | | **TOTAL: $29.45** | | |

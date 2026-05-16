@@ -15,20 +15,29 @@ i hate picking up my phone just to skip a song while im working or studying. wan
 - everything sits in a **3D printed case** from JLCPCB
 
 ## Screenshots
+Wiring diagram using KICAD
 
-![alt text](image.png)
+![alt text](image-3.png)
 
-![alt text](image-1.png)
+![alt text](<Screenshot 2026-05-16 032715.png>)
 
-![alt text](image-2.png)
+![alt text](<Screenshot 2026-05-16 025709.png>)
+
+![alt text](<Screenshot 2026-05-16 032914.png>)
+
+![alt text](<Screenshot 2026-05-16 032938.png>)
+
+![alt text](<Screenshot 2026-05-16 032950.png>)
 
 ## BOM
-
 | Item # | Name | Purpose | Qty | Total (USD) | Source | Link |
 |--------|------|---------|-----|-------------|--------|------|
-| 1 | 3D Printing Case | To hold the display | 1 | $6.30 | JLCPCB | [link](https://jlcpcb.com/) |
-| 2 | Gateron Switches Mechanical Keyboard | To switch between songs | 5 | $5.10 | AliExpress | [link](https://www.aliexpress.com/item/1005006091988869.html?spm=a2g0o.detail.0.0.5e95NUgkNUgktJ&mp=1&pdp_npi=6%40dis%21USD%21USD+6.00%21USD+5.10%21%21USD+5.10%21%21%21%4021038da617783638114353499ee3e4%2112000035698597737%21ct%21NG%216438462769%21%211%210%21) |
-| 3 | ESP32-C3 Development Board | The MCU | 1 | $2.64 | AliExpress | [link](https://www.aliexpress.com/item/1005005319963906.html?spm=a2g0o.detail.0.0.446dsOXTsOXTVg&mp=1&pdp_npi=6%40dis%21USD%21USD+2.64%21USD+2.64%21%21USD+2.64%21%21%21%402103894417783635684454404e7cb5%2112000033892432204%21ct%21NG%216438462769%21%211%210%21) |
-| 4 | 1.8" TFT LCD Display Module ST7735S 3.3V | The display unit | 1 | $3.36 | AliExpress | [link](https://www.aliexpress.com/item/1005006139989470.html?spm=a2g0o.cart.0.0.694038daEUMwtx&mp=1&pdp_npi=6%40dis%21USD%21USD+3.36%21USD+3.36%21%21USD+3.36%21%21%21%40210390c917783625114627336e4281%2112000047162642428%21ct%21NG%216438462769%21%211%210%21) |
-| | | | | Shipping: $11.55 | | |
-| | | | | **TOTAL: $28.95** | | |
+| 1 | Wires | To make connections | 5 | $2.20 | AliExpress | [link](https://www.aliexpress.com) |
+| 2 | WS2812B LED Ring | Underglow lighting for the case | 1 | $2.78 | AliExpress | [link](https://www.aliexpress.com/item/1005007206094421.html) |
+| 3 | Key Caps | For the switches | 3 | $2.50 | AliExpress | [link](https://www.aliexpress.com/item/1005008827240220.html) |
+| 4 | 3D Printing Case | To hold the display | 1 | $11.00 | #printing-legion | - |
+| 5 | Cherry MX Switches | To switch between songs | 3 | $2.91 | AliExpress | [link](https://www.aliexpress.com/item/1005003629759439.html) |
+| 6 | Wemos ESP32-C3 Development Board | MCU | 1 | $4.79 | AliExpress | [link](https://www.aliexpress.com/item/1005012043829146.html) |
+| 7 | 1.8" TFT LCD Display Module ST7735S 3.3V | The display unit | 1 | $3.27 | AliExpress | [link](https://www.aliexpress.com/item/1005008042359126.html) |
+
+| | | | | **TOTAL: $29.45** | | |
